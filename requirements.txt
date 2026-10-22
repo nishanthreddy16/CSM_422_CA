@@ -1,0 +1,9 @@
+tensorflow>=2.15
+numpy
+pandas
+matplotlib
+scikit-learn
+pillow
+streamlit
+# only needed for download_data.py (automatic PlantVillage download)
+tensorflow-datasets
