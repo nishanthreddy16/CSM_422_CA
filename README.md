@@ -12,8 +12,6 @@ It uses **MobileNetV2 transfer learning** with a small softmax classification he
 - MobileNetV2 feature extractor pre-trained on ImageNet, frozen while training the classifier head
 - Automatic dataset download (PlantVillage) or a 2-minute demo dataset
 - Data augmentation, early stopping, learning-rate reduction
-- Evaluation outputs: accuracy/loss curves, confusion matrix, class distribution, and a precision/recall/F1 classification report
-- Classification report (precision / recall / F1)
 - Web app (Streamlit) with upload or camera, confidence, treatment advice, Grad-CAM
 - Command-line prediction
 - Project report and viva Q&A in the `docs/` folder
